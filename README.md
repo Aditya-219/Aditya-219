@@ -3,7 +3,7 @@
 <h3 align="center">I am a passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://gteches.com/wp-content/uploads/2023/05/Full-Stack-3.gif">
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently enhancing my web development skills. I am honing front-end expertise in HTML, CSS, JavaScript, and exploring React for dynamic user interfaces.
 
 - 📫 How to reach me **adityakumar2192003@gmail.com**
 
